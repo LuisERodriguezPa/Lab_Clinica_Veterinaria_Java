@@ -30,7 +30,9 @@ public class Main {
         System.out.println("Valor de la prima Anual: "+gato.calcularPrimaSeguro());
 
         Conejo conejo = new Conejo("boss bunny",4,"Warner Bro",1000);
-        /*¿Cuántas líneas tuviste que cambiar fuera de la nueva clase?*/
+        /*¿Cuántas líneas tuviste que cambiar fuera de la nueva clase?
+        * Ninguna solo agregamos creamos un creamos conejo en el main */
+
 
     }
 }
